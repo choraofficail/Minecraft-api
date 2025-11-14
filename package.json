@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "api/control.js",
   "engines": {
-    "node": "20.x"
+    "node": "22.x"
   },
   "dependencies": {
     "pg": "^8.11.0"
