@@ -1,0 +1,8 @@
+{
+  "name": "mc-provision-api",
+  "version": "1.0.0",
+  "main": "api/control.js",
+  "dependencies": {
+    "pg": "^8.11.0"
+  }
+}
